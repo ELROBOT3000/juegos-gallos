@@ -1,0 +1,33 @@
+name: juego_gallos
+description: "Un juego de peleas de gallos online con Flutter y Supabase."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.8.0
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+# ⚠️ ¡ESTO VA FUERA DE LA SECCIÓN 'flutter:', AL MISMO NIVEL!
+flutter_launcher_icons:
+  image_path: "icono_gallo.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  # (Aquí tus assets o fuentes si los tienes)
+  # assets:
+  #   - images/

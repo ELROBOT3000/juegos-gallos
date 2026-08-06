@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243804083151",
+    "project_id": "palenquegallosonline",
+    "storage_bucket": "palenquegallosonline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243804083151:android:7e087d31185fceba8e78ba",
+        "android_client_info": {
+          "package_name": "com.example.juego_gallos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApC8_X7d_a939ulyBys1VypobIq0wJCWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
